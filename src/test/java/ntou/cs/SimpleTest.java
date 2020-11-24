@@ -1,4 +1,5 @@
 package ntou.cs;
+
 import ntou.cs.Arithmetic;
 
 import static org.junit.Assert.*;
